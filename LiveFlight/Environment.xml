@@ -1,0 +1,6 @@
+<Environment>
+	<Variable>
+		<Name>FlightExecutable</Name>
+		<Value>C:\Program Files (x86)\HP\QuickTest Professional\samples\flight\app\flight4a.exe</Value>
+	</Variable>
+</Environment>
