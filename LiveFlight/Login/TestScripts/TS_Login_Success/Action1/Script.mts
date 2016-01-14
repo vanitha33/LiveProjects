@@ -3,8 +3,8 @@
 'Outputs:				 It Logs into the Login Application.
 
 'Load Login and Flight Reservation Objects
-RepositoriesCollection.Add "../../Repository/LoginRepository.tsr"
-RepositoriesCollection.Add "../../Repository/FlightReservation.tsr"
+RepositoriesCollection.Add "../../../Common/Repository/LoginRepository.tsr"
+RepositoriesCollection.Add "../../../Common/Repository/FlightReservation.tsr"
 
 'Load Environment Details
 Environment.LoadFromFile "../../../Environment.xml"
